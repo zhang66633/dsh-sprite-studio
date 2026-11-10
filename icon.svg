@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="切片牢大">
+  <defs>
+    <linearGradient id="ss-g" x1="8" y1="4" x2="58" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b5bd6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#ss-g)"/>
+  <rect x="2.75" y="2.75" width="58.5" height="58.5" rx="14.25" fill="none"
+        stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.5"/>
+  <g fill="#ffffff">
+    <rect x="13" y="13" width="17" height="17" rx="4.5"/>
+    <rect x="34" y="13" width="17" height="17" rx="4.5" fill-opacity="0.92"/>
+    <rect x="13" y="34" width="17" height="17" rx="4.5" fill-opacity="0.92"/>
+  </g>
+  <rect x="34" y="34" width="17" height="17" rx="4.5" fill="none"
+        stroke="#ffffff" stroke-width="2.2" stroke-dasharray="4 3.4" stroke-opacity="0.85"/>
+</svg>
