@@ -1,0 +1,6 @@
+node_modules/
+TEMP/
+*.log
+.DS_Store
+Thumbs.db
+.tmp-lpc.json
